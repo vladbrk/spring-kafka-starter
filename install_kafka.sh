@@ -10,7 +10,7 @@ tar -zxvf apache-zookeeper-3.6.1-bin.tar.gz
 tar -zxvf kafka_2.12-2.5.0.tgz
 
 cd ~
-IdeaProjects/spring-kafka-starter/download/kafka_2.12-2.5.0/bin/zookeeper-server-start.sh IdeaProjects/spring-kafka-starter/dnload/kafka_2.12-2.5.0/config/zookeeper.properties
+IdeaProjects/spring-kafka-starter/download/kafka_2.12-2.5.0/bin/zookeeper-server-start.sh IdeaProjects/spring-kafka-starter/download/kafka_2.12-2.5.0/config/zookeeper.properties
 IdeaProjects/spring-kafka-starter/download/kafka_2.12-2.5.0/bin/kafka-server-start.sh IdeaProjects/spring-kafka-starter/download/kafka_2.12-2.5.0/config/server.properties
 
 # Producer's terminal
